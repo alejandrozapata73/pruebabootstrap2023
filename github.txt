@@ -1,0 +1,7 @@
+Con esto cambio a main, hago que sea mi rama principal
+git branch -m main
+
+git pull (me trae todo lo que tengo en la rama remota)
+
+puedo forzar con el siguient comando:
+git pull origin master --allow-unreleated-histories

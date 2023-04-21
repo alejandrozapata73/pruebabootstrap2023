@@ -1,0 +1,23 @@
+#nav-id{
+    margin-left: 800px;
+    background-color: blue!important;
+}
+
+
+#cuadradito {
+    width: 400px;
+    height: 500px;
+    background-color: bisque;
+    margin-top: 300px;
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: coral;
+}
+
+.col-2 ul li{
+    list-style: none;
+}
+
